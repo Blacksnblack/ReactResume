@@ -1,0 +1,12 @@
+.projects-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.arrow {
+    font-size: 150px;
+    margin: auto;
+}
